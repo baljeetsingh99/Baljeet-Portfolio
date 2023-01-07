@@ -1,0 +1,50 @@
+.knowMe-box-header {
+  font-size: 14px;
+  font-weight: 600;
+  max-width: 220px !important;
+  display: block;
+  margin: 20px auto 15px auto;
+  padding: 7px;
+  text-transform: uppercase;
+  letter-spacing: 1.5px !important;
+  text-align: center;
+  border: 1px solid black;
+  border-radius: 7px;
+}
+
+.abc {
+  font-family: 'Poppins', sans-serif !important;
+  padding: 0px 10px;
+}
+
+.abc ul li {
+  font-size: 14px;
+  letter-spacing: 1px;
+}
+
+span {
+  color: #00a6fb;
+}
+
+.css-button-rounded--sky {
+  min-width: 130px;
+  height: 40px;
+  color: #fff;
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  border-radius: 5px;
+  border: 2px solid #00a6fb;
+  background: #00a6fb;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.css-button-rounded--sky:hover {
+  background: #fff;
+  color: #00a6fb;
+}

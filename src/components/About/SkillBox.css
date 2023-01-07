@@ -1,0 +1,22 @@
+.skill-box {
+  padding: 5px;
+  cursor: pointer;
+}
+
+.skill-box:hover {
+  background-color: #f8f9fa;
+  border-radius: 10px;
+  padding: 5px 3px 0px 3px;
+  border: 1px solid #f8f9fa;
+  box-shadow: 1px 1px 1px 1px gray;
+}
+
+.skill-img {
+  width: 50%;
+}
+
+.skill-name {
+  font-family: 'Poppins', sans-serif !important;
+  margin-top: 7px;
+  font-size: 14px;
+}

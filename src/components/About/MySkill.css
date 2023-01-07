@@ -1,0 +1,15 @@
+.skill-box-header {
+  border: 1px solid black;
+  padding: 7px;
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: 500;
+  max-width: 220px !important;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 20px;
+  margin-bottom: 15px;
+  letter-spacing: 1.5px !important;
+  border-radius: 7px;
+}
