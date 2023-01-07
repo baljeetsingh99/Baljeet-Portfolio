@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Baljeet-Portfolio/static/css/main.c89092a1.css",
+    "main.js": "/Baljeet-Portfolio/static/js/main.e390bf28.js",
+    "static/js/787.287b5860.chunk.js": "/Baljeet-Portfolio/static/js/787.287b5860.chunk.js",
+    "static/media/contactimg.png": "/Baljeet-Portfolio/static/media/contactimg.c822203bc99fb49a85c7.png",
+    "static/media/profile-pic.png": "/Baljeet-Portfolio/static/media/profile-pic.7a03be9431663a77bb0d.png",
+    "static/media/project-stack.png": "/Baljeet-Portfolio/static/media/project-stack.acabc6a7883ec7fbd911.png",
+    "static/media/project-stack-3.png": "/Baljeet-Portfolio/static/media/project-stack-3.3ce2f10ad1ff205817a9.png",
+    "static/media/project-stackaadhar.png": "/Baljeet-Portfolio/static/media/project-stackaadhar.e8fd91943befb9d9306b.png",
+    "static/media/header.png": "/Baljeet-Portfolio/static/media/header.099918eca3da108afee8.png",
+    "static/media/project-stack3.png": "/Baljeet-Portfolio/static/media/project-stack3.6582b2744098802ad4ae.png",
+    "static/media/BaljeetMp.pdf": "/Baljeet-Portfolio/static/media/BaljeetMp.00d2950e347321fb0fc9.pdf",
+    "static/media/instagram.png": "/Baljeet-Portfolio/static/media/instagram.8e408da00539cdef4629.png",
+    "static/media/angular-icon-1-logo-png-transparent.png": "/Baljeet-Portfolio/static/media/angular-icon-1-logo-png-transparent.b2ed739859735bd306b2.png",
+    "static/media/github-logo.png": "/Baljeet-Portfolio/static/media/github-logo.1f01b12d586c842bcc8c.png",
+    "static/media/spring-boot-logo.png": "/Baljeet-Portfolio/static/media/spring-boot-logo.94f201ce44348763e6a5.png",
+    "static/media/c-programming.png": "/Baljeet-Portfolio/static/media/c-programming.272d1cfdb06887e8671d.png",
+    "static/media/java.png": "/Baljeet-Portfolio/static/media/java.f5dd86c3ef6ef3f85acf.png",
+    "static/media/c++.png": "/Baljeet-Portfolio/static/media/c++.2de0ae20980cffd2da09.png",
+    "static/media/github.png": "/Baljeet-Portfolio/static/media/github.636c8b381caf9cb35a68.png",
+    "static/media/html.png": "/Baljeet-Portfolio/static/media/html.6e930594286d8afe4c79.png",
+    "static/media/css-3.png": "/Baljeet-Portfolio/static/media/css-3.463e319bad8e0edf1ef7.png",
+    "static/media/bootstrap.png": "/Baljeet-Portfolio/static/media/bootstrap.268c4375260420e8d982.png",
+    "static/media/linkedin.png": "/Baljeet-Portfolio/static/media/linkedin.f249b38224ca41a0b909.png",
+    "static/media/js.png": "/Baljeet-Portfolio/static/media/js.3dfb665e058d08c99f28.png",
+    "index.html": "/Baljeet-Portfolio/index.html",
+    "main.c89092a1.css.map": "/Baljeet-Portfolio/static/css/main.c89092a1.css.map",
+    "main.e390bf28.js.map": "/Baljeet-Portfolio/static/js/main.e390bf28.js.map",
+    "787.287b5860.chunk.js.map": "/Baljeet-Portfolio/static/js/787.287b5860.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c89092a1.css",
+    "static/js/main.e390bf28.js"
+  ]
+}
